@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.22.2
 
 require (
-	github.com/dappster-io/DappsterOS-Common v0.4.9-alpha11
+	github.com/dappster-io/DappsterOS-Common v0.4.9-alpha12
 	github.com/glebarez/sqlite v1.7.0
 	github.com/gobwas/ws v1.1.0
 	github.com/json-iterator/go v1.1.12
