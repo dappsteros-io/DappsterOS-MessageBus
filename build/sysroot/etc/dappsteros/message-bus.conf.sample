@@ -1,0 +1,7 @@
+[common]
+RuntimePath=/var/run/dappsteros
+
+[app]
+LogPath=/var/log/dappsteros
+LogSaveName=message-bus
+LogFileExt=log

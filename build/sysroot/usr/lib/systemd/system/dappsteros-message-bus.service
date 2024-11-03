@@ -1,0 +1,13 @@
+[Unit]
+After=dappsteros-gateway.service
+Description=DappsterOS Message Bus Service
+
+[Service]
+ExecStartPre=/usr/bin/dappsteros-message-bus -v
+ExecStart=/usr/bin/dappsteros-message-bus -c /etc/dappsteros/message-bus.conf
+PIDFile=/var/run/dappsteros/message-bus.pid
+Restart=always
+Type=notify
+
+[Install]
+WantedBy=multi-user.target
