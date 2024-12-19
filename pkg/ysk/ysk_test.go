@@ -5,12 +5,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
-	"github.com/dappster-io/DappsterOS-MessageBus/pkg/ysk"
-	"github.com/dappster-io/DappsterOS-MessageBus/repository"
-	"github.com/dappster-io/DappsterOS-MessageBus/service"
-	"github.com/dappster-io/DappsterOS-MessageBus/utils"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/pkg/ysk"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/repository"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/service"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/utils"
 	"gotest.tools/assert"
 )
 

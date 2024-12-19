@@ -3,9 +3,9 @@ package out
 import (
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils"
-	"github.com/dappster-io/DappsterOS-MessageBus/codegen"
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/codegen"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
 )
 
 func ActionAdapter(action model.Action) codegen.Action {

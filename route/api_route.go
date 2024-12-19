@@ -1,8 +1,8 @@
 package route
 
 import (
-	"github.com/dappster-io/DappsterOS-MessageBus/codegen"
-	"github.com/dappster-io/DappsterOS-MessageBus/service"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/codegen"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/service"
 	jsoniter "github.com/json-iterator/go"
 )
 

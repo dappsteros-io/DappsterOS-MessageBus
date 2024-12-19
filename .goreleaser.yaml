@@ -172,7 +172,7 @@ changelog:
     - "^test:"
 release:
   github:
-    owner: dappster-io
+    owner: dappsteros-io
     name: DappsterOS-MessageBus
   draft: false
   prerelease: auto

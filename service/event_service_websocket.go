@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/common"
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/common"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
 	"go.uber.org/zap"
 )
 

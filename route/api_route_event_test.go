@@ -7,9 +7,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
-	"github.com/dappster-io/DappsterOS-MessageBus/repository"
-	"github.com/dappster-io/DappsterOS-MessageBus/service"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/repository"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/service"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/goleak"

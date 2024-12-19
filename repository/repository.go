@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
-	"github.com/dappster-io/DappsterOS-MessageBus/pkg/ysk"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/pkg/ysk"
 )
 
 type Repository interface {

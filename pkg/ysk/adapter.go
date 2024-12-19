@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/codegen"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/codegen"
 )
 
 type (

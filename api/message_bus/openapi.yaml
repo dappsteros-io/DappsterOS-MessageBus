@@ -5,14 +5,14 @@ info:
   version: v2
   description: |
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_dark_night_800px.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
-        <img alt="DappsterOS" src="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_dark_night_800px.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
+        <img alt="DappsterOS" src="https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
     </picture>
 
     DappsterOS Message Bus accepts events and actions from various sources and delivers them to subscribers.
 
-    For issues and discussions, please visit the [GitHub repository](https://github.com/dappster-io/DappsterOS) or join [our Discord](https://discord.gg/knqAbbBbeX).
+    For issues and discussions, please visit the [GitHub repository](https://github.com/dappsteros-io/DappsterOS) or join [our Discord](https://discord.gg/knqAbbBbeX).
 
 servers:
 - url: /v2/message_bus
@@ -61,7 +61,6 @@ tags:
 - name: YSK methods
   description: |-
     methods for managing YSK card
-
 
 x-tagGroups:
 - name: Methods
@@ -854,4 +853,4 @@ components:
 
     YSKCardIcon:
       type: string
-      example: "https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png"
+      example: "https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png"

@@ -3,8 +3,8 @@ package route
 import (
 	"net/http"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/codegen"
-	"github.com/dappster-io/DappsterOS-MessageBus/pkg/ysk"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/codegen"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/pkg/ysk"
 	"github.com/labstack/echo/v4"
 	"github.com/samber/lo"
 )

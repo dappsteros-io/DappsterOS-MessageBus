@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
-	"github.com/dappster-io/DappsterOS-MessageBus/repository"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/repository"
 	"go.uber.org/goleak"
 	"gotest.tools/assert"
 )

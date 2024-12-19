@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-MessageBus/common"
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
-	"github.com/dappster-io/DappsterOS-MessageBus/pkg/ysk"
-	"github.com/dappster-io/DappsterOS-MessageBus/repository"
-	"github.com/dappster-io/DappsterOS-MessageBus/utils"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/common"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/pkg/ysk"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/repository"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/utils"
 	"go.uber.org/zap"
 )
 

@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/common"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/common"
 )
 
 func DefineCard(ctx context.Context, cardID string) YSKCard {

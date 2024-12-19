@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/constants"
-	"github.com/dappster-io/DappsterOS-MessageBus/common"
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/constants"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/common"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
 	"gopkg.in/ini.v1"
 )
 

@@ -1,8 +1,8 @@
 package in
 
 import (
-	"github.com/dappster-io/DappsterOS-MessageBus/codegen"
-	"github.com/dappster-io/DappsterOS-MessageBus/model"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/codegen"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/model"
 )
 
 func ActionTypeAdapter(actionType codegen.ActionType) model.ActionType {

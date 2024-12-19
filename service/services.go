@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/dappster-io/DappsterOS-MessageBus/repository"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/repository"
 )
 
 type Services struct {

@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/dappster-io/DappsterOS-MessageBus/codegen"
+	"github.com/dappsteros-io/DappsterOS-MessageBus/codegen"
 	"github.com/samber/lo"
 )
 
