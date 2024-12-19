@@ -12,7 +12,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/googollee/go-socket.io v1.7.0
 	github.com/json-iterator/go v1.1.12
-	github.com/labstack/echo/v4 v4.13.3
+	github.com/labstack/echo/v4 v4.12.0
 	github.com/samber/lo v1.47.0
 	go.uber.org/goleak v1.3.0
 	go.uber.org/zap v1.27.0
@@ -51,6 +51,7 @@ require (
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
+	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang-jwt/jwt/v5 v5.0.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
